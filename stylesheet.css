@@ -8,7 +8,7 @@ body {
   color: black;
 }
 
-.letter{
+.letter1{
   position: relative;
   width: 300px;
   height: 300px;
@@ -16,13 +16,13 @@ body {
   overflow: hidden;
 }
 
-.b {
-  font-family: 'Ranchers', cursive;
+.a {
+  font-family: 'Roboto Mono', monospace;
   font-weight: bold;
   position: absolute;
-  top: -200px;
-  left: -25px;
-  font-size: 650px;
+  top: -340px;
+  left: -70px;
+  font-size: 900px;
   transform: rotate(5deg);
 }
 
@@ -35,44 +35,44 @@ body {
   border: 1px solid black;
   overflow: hidden;
 }
-.g {
-  font-family: 'Syne Mono', monospace;
+.c{
+  font-family: 'Roboto Mono', monospace;
   font-weight: bold;
   position: absolute;
   top: -600px;
-  left: -50px;
-  font-size: 900px;
+  left: -80px;
+  font-size: 800px;
 }
 
 .letter3{
   position: absolute;
   top: 0px;
+  left: 300px;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  overflow: hidden;
+}
+.h{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+  position: absolute;
+  top: -150px;
+  left: -100px;
+  font-size: 900px;
+  transform: rotate(120deg);
+}
+
+.letter4{
+  position: absolute;
+  top: 300px;
   left: 600px;
   width: 300px;
   height: 300px;
   border: 1px solid black;
   overflow: hidden;
 }
-.k {
-  font-family: font-family: 'Noto Sans TC', sans-serif;
-  font-weight: bold;
-  position: absolute;
-  top: -383px;
-  left: -258px;
-  font-size: 1003px;
-  transform: rotate(200deg);
-}
-
-.letter4{
-  position: absolute;
-  top: 300px;
-  left: 1200px;
-  width: 300px;
-  height: 300px;
-  border: 1px solid black;
-  overflow: hidden;
-}
-.a {
+.r {
   font-family: font-family: 'Noto Sans TC', sans-serif;
   font-weight: bold;
   position: absolute;
@@ -84,13 +84,13 @@ body {
 .letter5{
   position: absolute;
   top: 0px;
-  left: 1200px;
+  left: 600px;
   width: 300px;
   height: 300px;
   border: 1px solid black;
   overflow: hidden;
 }
-.r {
+.v {
   font-family: 'Redressed', cursive;
   font-weight: bold;
   position: absolute;
@@ -102,19 +102,19 @@ body {
 
 .letter6{
   position: absolute;
-  top: 600px;
-  left: 1500px;
+  top: 300px;
+  left: 0px;
   width: 300px;
   height: 300px;
   border: 1px solid black;
   overflow: hidden;
 }
-.m {
-  font-family: 'Ranchers', cursive;
-  font-weight: bold;
+.n{
+  font-family: 'Noto Sans TC', sans-serif;
+  font-weight: light;
   position: absolute;
-  top: -420px;
-  left: -30px;
-  font-size: 800px;
-  transform: rotateZ(55deg);
+  top: -300px;
+  left: -60px;
+  font-size: 900px;
+  transform: rotateZ(260deg);
 }
